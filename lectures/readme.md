@@ -1,4 +1,7 @@
 lectures of cs294 2018
+
+It is really an advanced course not for beginners
+
 https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37
 http://rail.eecs.berkeley.edu/deeprlcourse/
 
